@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AbidAlWassie/Forum-Website/issues"
   },
-  "homepage": "https://github.com/AbidAlWassie/Forum-Website#readme"
+  "homepage": "https://github.com/AbidAlWassie/Forum-Website#readme",
+  "dependencies": {
+    "tailwind": "^4.0.0"
+  }
 }
