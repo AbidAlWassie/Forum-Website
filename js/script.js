@@ -5,6 +5,6 @@ window.onload = function() {
   profileBtn.addEventListener("click", profileToggle);
 
   function profileToggle() {
-    profileContainer.classList.toggle("hide");
+    profileContainer.classList.toggle("hidden");
   }
 }
