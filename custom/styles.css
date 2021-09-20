@@ -13,3 +13,7 @@
 input:focus {
   outline: none;
 } */
+
+.gray-850 {
+  background-color: #273344 !important;
+}
